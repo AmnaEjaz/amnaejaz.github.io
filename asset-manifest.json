@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15051b72.chunk.css",
+    "main.js": "/static/js/main.f8386a48.chunk.js",
+    "main.js.map": "/static/js/main.f8386a48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.661f12f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.661f12f8.js.map",
+    "static/js/2.ce06e740.chunk.js": "/static/js/2.ce06e740.chunk.js",
+    "static/js/2.ce06e740.chunk.js.map": "/static/js/2.ce06e740.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1670365e790f353e4403abe072a2febb.js": "/precache-manifest.1670365e790f353e4403abe072a2febb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.15051b72.chunk.css.map": "/static/css/main.15051b72.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.c1f9993b.svg",
+    "static/media/fb.jpg": "/static/media/fb.17d89cc2.jpg",
+    "static/media/flutter.jpg": "/static/media/flutter.180d53e4.jpg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.b61c4fbe.svg",
+    "static/media/ngtalk.jpg": "/static/media/ngtalk.8b02dd64.jpg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/susi.jpg": "/static/media/susi.632fb580.jpg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
+    "static/media/ted.jpg": "/static/media/ted.b8dbbf13.jpg",
+    "static/media/tv.jpg": "/static/media/tv.419ec859.jpg",
+    "static/media/ventire.png": "/static/media/ventire.0fe7922a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661f12f8.js",
+    "static/js/2.ce06e740.chunk.js",
+    "static/css/main.15051b72.chunk.css",
+    "static/js/main.f8386a48.chunk.js"
+  ]
+}
