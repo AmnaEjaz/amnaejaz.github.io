@@ -22,6 +22,10 @@
   font-size: 10px;
 }
 
-.software-skill-inline > i:hover {
+.software-skill-inline > i:hover{
+  color: #645beb;
+}
+
+.software-skill-inline > i:hover ~ p{
   color: #645beb;
 }

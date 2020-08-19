@@ -45,6 +45,7 @@
 }
 .certificate-image-div {
   text-align: center;
+  overflow: overlay;
 }
 .achievement-cards-div {
   display: grid;
